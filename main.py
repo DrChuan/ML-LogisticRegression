@@ -37,3 +37,4 @@ for i in rg:
 # plot the graph
 plt.plot(rg, precisions)
 plt.plot(rg, recalls)
+plt.show()
